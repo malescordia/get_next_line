@@ -1,4 +1,4 @@
-# Get_next_line
+# get_next_line
 
 Welcome to the get_next_line project repository by malescordia.
 
@@ -10,5 +10,9 @@ get_next_line is a fundamental file reading project at 42 that challenges studen
 - Handles various file sizes and multiple file descriptors.
 - Provides a flexible and reusable tool for reading input streams.
 - Written in C as part of the 42 curriculum.
+
+## How to Use
+1. Clone the repository: `git clone https://github.com/malescordia/get_next_line.git`
+2. Use the function in your project by including `get_next_line.h`.
 
 Happy line reading with get_next_line!
